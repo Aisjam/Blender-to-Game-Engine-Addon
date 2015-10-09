@@ -38,7 +38,7 @@ Select the engine you are exporting to.
 Currently suppory unity, UDK and UE4 setup. If you have a different engine, please name it and state the scale of BU, up and forward axis in the comments.
 
 ##Export
-there are 3 options are **Individual Assets**, **Group Assets** and **Scene Export*
+there are 3 options are **Individual Assets**, **Group Assets** and **Scene Export**
 - Individual Assets will move all the objects to the center of the scene and export each one with the object name
 - Group Assets moves all the objects to the center of the scene and saves out the scene with all the individual elements
 - Scene Export will save out the scene keeping the location of objects. OBJ will get grouped to one mesh
