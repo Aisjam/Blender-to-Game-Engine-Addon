@@ -18,7 +18,7 @@ With Blender open and file downloaded, go to **File** > **User Preferences** > *
 Select *BlenderToGameEngine_Export.py* and in the addon list, search for *Blender to Game Engine Export* and select the checkbox and **Save User Settings**.
 
 #How to Use
-The export panel is in Properties > Scene and it is called Game Engine Export.
+The export panel is in **Properties** > **Scene** and it is called Game Engine Export.
 
 With every object in the scene, make sure that;
 - it is correctly named
